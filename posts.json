@@ -1,0 +1,429 @@
+{
+ "updated_at": "2026.09.15 17:12",
+ "count": 47,
+ "posts": [
+  {
+   "idx": "173923538",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "고객의 모든 움직임에 ‘왜’를 고민하며 성장의 답을 만드는 마케팅팀",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260909/64129ea546659.jpg",
+   "date": "2026.09.09",
+   "url": "https://team.imweb.me/blog_people/?idx=173923538&bmode=view"
+  },
+  {
+   "idx": "173651972",
+   "board": "blog-culture",
+   "category": "컬쳐",
+   "title": "다른 직무의 동료들과 제품을 만든 첫 사내 해커톤",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260902/4e5c1b7995ac1.jpg",
+   "date": "2026.09.02",
+   "url": "https://team.imweb.me/blog-culture/?idx=173651972&bmode=view"
+  },
+  {
+   "idx": "173413518",
+   "board": "blog-insight",
+   "category": "인사이트",
+   "title": "4천 명이 신청한 컨퍼런스를 4개월 만에 만들기까지, ‘브랜드콘 26’ 비하인드",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260825/72d8d11a072b1.jpg",
+   "date": "2026.08.25",
+   "url": "https://team.imweb.me/blog-insight/?idx=173413518&bmode=view"
+  },
+  {
+   "idx": "172933526",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "제품 전반을 넘나들며 아임웹의 가능성을 실험하는 파운데이션 스쿼드",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260806/2671966b5c091.jpg",
+   "date": "2026.08.06",
+   "url": "https://team.imweb.me/blog_people/?idx=172933526&bmode=view"
+  },
+  {
+   "idx": "172773276",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "아임웹의 가능성을 더 큰 시장에 증명하는 아웃바운드 세일즈팀",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260730/0c66fff9a32ea.jpg",
+   "date": "2026.07.30",
+   "url": "https://team.imweb.me/blog_people/?idx=172773276&bmode=view"
+  },
+  {
+   "idx": "172472585",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "성장하는 회사는 피플팀부터 다릅니다",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260716/bbbed2e22a60c.jpg",
+   "date": "2026.07.16",
+   "url": "https://team.imweb.me/blog_people/?idx=172472585&bmode=view"
+  },
+  {
+   "idx": "172245793",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "충분함을 넘어 새로운 기준을 세우는 사람들",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260702/11692b8b8cbc6.jpg",
+   "date": "2026.07.02",
+   "url": "https://team.imweb.me/blog_people/?idx=172245793&bmode=view"
+  },
+  {
+   "idx": "171888999",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "충분함을 넘기 위해 아임웹으로 합류한 사람들",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260618/af9800ad4276b.jpeg",
+   "date": "2026.06.18",
+   "url": "https://team.imweb.me/blog_people/?idx=171888999&bmode=view"
+  },
+  {
+   "idx": "171069934",
+   "board": "blog-culture",
+   "category": "컬쳐",
+   "title": "비개발자가 AI로 일하기 시작하면 생기는 일",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260429/f7b15b823ae48.png",
+   "date": "2026.04.29",
+   "url": "https://team.imweb.me/blog-culture/?idx=171069934&bmode=view"
+  },
+  {
+   "idx": "170862241",
+   "board": "blog-culture",
+   "category": "컬쳐",
+   "title": "아임웹, AI 시대에 오히려 더 많은 동료를 찾는 이유",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260414/1d32f996513fb.jpg",
+   "date": "2026.04.14",
+   "url": "https://team.imweb.me/blog-culture/?idx=170862241&bmode=view"
+  },
+  {
+   "idx": "170544156",
+   "board": "blog-culture",
+   "category": "컬쳐",
+   "title": "적당함으로는 풀 수 없는 문제를 풉니다",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260323/79af84689f3f5.jpg",
+   "date": "2026.03.23",
+   "url": "https://team.imweb.me/blog-culture/?idx=170544156&bmode=view"
+  },
+  {
+   "idx": "170459499",
+   "board": "blog-culture",
+   "category": "컬쳐",
+   "title": "아임웹이 AI로 고객의 여정을 다시 설계합니다",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260319/1070b194a25db.jpg",
+   "date": "2026.03.19",
+   "url": "https://team.imweb.me/blog-culture/?idx=170459499&bmode=view"
+  },
+  {
+   "idx": "170242523",
+   "board": "blog-culture",
+   "category": "컬쳐",
+   "title": "아임웹, AI와 함께 일하는 방식을 다시 쓰다",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260303/dc8fab4b00dff.jpg",
+   "date": "2026.03.03",
+   "url": "https://team.imweb.me/blog-culture/?idx=170242523&bmode=view"
+  },
+  {
+   "idx": "170198143",
+   "board": "blog-culture",
+   "category": "컬쳐",
+   "title": "아임웹 리더십이 직접 설명하는 ‘충분함’에 만족하지 않는 이유",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260227/0a436741ed9b1.jpg",
+   "date": "2026.02.27",
+   "url": "https://team.imweb.me/blog-culture/?idx=170198143&bmode=view"
+  },
+  {
+   "idx": "169558026",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "숫자 너머의 고객 경험을 분석합니다, 아임웹 데이터 분석 리드",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260119/390803ce5531b.png",
+   "date": "2026.01.19",
+   "url": "https://team.imweb.me/blog_people/?idx=169558026&bmode=view"
+  },
+  {
+   "idx": "169532289",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "정답을 구현하기보다 문제를 정의하는 사람들, 아임웹 백엔드 엔지니어",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260116/7da3c1abad910.jpg",
+   "date": "2026.01.16",
+   "url": "https://team.imweb.me/blog_people/?idx=169532289&bmode=view"
+  },
+  {
+   "idx": "169531915",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "웹 경험으로부터 시작되는 아임웹의 제품 경쟁력, 아임웹 프론트엔드 엔지니어",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260116/865cd897e2525.jpg",
+   "date": "2026.01.16",
+   "url": "https://team.imweb.me/blog_people/?idx=169531915&bmode=view"
+  },
+  {
+   "idx": "169531579",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "선택의 방향을 만드는 디자인, 아임웹 디자인 리드",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260116/8832c22ceab50.jpg",
+   "date": "2026.01.16",
+   "url": "https://team.imweb.me/blog_people/?idx=169531579&bmode=view"
+  },
+  {
+   "idx": "169530838",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "크리에이터 커머스의 새로운 기준을 만듭니다, 아임웹 크리에이터 파트너십 매니저",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260116/7c4a6943c5877.jpg",
+   "date": "2026.01.16",
+   "url": "https://team.imweb.me/blog_people/?idx=169530838&bmode=view"
+  },
+  {
+   "idx": "168086479",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "“이것보다 더 빠르게 하고 싶다고요..?” 아임웹 욕심실험실 ep.1 백엔드 개발",
+   "thumb": "https://cdn.imweb.me/thumbnail/20251002/d96c2b89d4012.png",
+   "date": "2025.10.02",
+   "url": "https://team.imweb.me/blog_people/?idx=168086479&bmode=view"
+  },
+  {
+   "idx": "167495940",
+   "board": "blog-culture",
+   "category": "컬쳐",
+   "title": "브랜드 빌더를 위한 시작, 브랜드 빌더 툴킷",
+   "thumb": "https://cdn.imweb.me/thumbnail/20250828/87f7e1ca687dc.png",
+   "date": "2025.08.28",
+   "url": "https://team.imweb.me/blog-culture/?idx=167495940&bmode=view"
+  },
+  {
+   "idx": "167382725",
+   "board": "blog-culture",
+   "category": "컬쳐",
+   "title": "“시작 비용을 줄이면 실행이 빨라집니다.”  아임웹의 전사 AI 지원",
+   "thumb": "https://cdn.imweb.me/thumbnail/20250820/b8b35d3afccf2.png",
+   "date": "2025.08.20",
+   "url": "https://team.imweb.me/blog-culture/?idx=167382725&bmode=view"
+  },
+  {
+   "idx": "166585093",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "커머스부터 공공기관까지...100만 사이트 데이터 분석하는 '아임웹 데이터팀'",
+   "thumb": "https://cdn.imweb.me/thumbnail/20250707/98bc7223949d8.png",
+   "date": "2025.07.07",
+   "url": "https://team.imweb.me/blog_people/?idx=166585093&bmode=view"
+  },
+  {
+   "idx": "166100170",
+   "board": "blog-culture",
+   "category": "컬쳐",
+   "title": "고객의 불편함, AI와 사람이 이틀 만에 해결한 이야기",
+   "thumb": "https://cdn.imweb.me/thumbnail/20250625/81790345dab2b.png",
+   "date": "2025.06.25",
+   "url": "https://team.imweb.me/blog-culture/?idx=166100170&bmode=view"
+  },
+  {
+   "idx": "154470695",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "백엔드 개발자가 말하는 아임웹의 매력 4가지",
+   "thumb": "https://cdn.imweb.me/thumbnail/20250226/5f3a3a21daf5b.png",
+   "date": "2025.02.26",
+   "url": "https://team.imweb.me/blog_people/?idx=154470695&bmode=view"
+  },
+  {
+   "idx": "153097353",
+   "board": "blog-insight",
+   "category": "인사이트",
+   "title": "아임웹의 첫 번째 테크밋업 [WIP 2025 : 기술의 장벽을 허무는 사람들] 에 초대합니다.",
+   "thumb": "https://cdn.imweb.me/thumbnail/20250224/e484c387996a3.png",
+   "date": "2025.02.24",
+   "url": "https://team.imweb.me/blog-insight/?idx=153097353&bmode=view"
+  },
+  {
+   "idx": "141046736",
+   "board": "blog-insight",
+   "category": "인사이트",
+   "title": "디자인 모드, 10년의 여정과 새로운 도전",
+   "thumb": "https://cdn.imweb.me/thumbnail/20250110/699d988a24ac0.png",
+   "date": "2025.01.10",
+   "url": "https://team.imweb.me/blog-insight/?idx=141046736&bmode=view"
+  },
+  {
+   "idx": "138033427",
+   "board": "blog-insight",
+   "category": "인사이트",
+   "title": "2024 연말결산: 80만 브랜드와 함께 성장한 아임웹",
+   "thumb": "https://cdn.imweb.me/thumbnail/20241230/7135a9dd58f87.png",
+   "date": "2024.12.30",
+   "url": "https://team.imweb.me/blog-insight/?idx=138033427&bmode=view"
+  },
+  {
+   "idx": "136514868",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "“온라인 비즈니스의 새로운 챕터를 열겠습니다” - 아임웹 김태오 CPO",
+   "thumb": "https://cdn.imweb.me/thumbnail/20241224/6c7aae01c6353.gif",
+   "date": "2024.12.24",
+   "url": "https://team.imweb.me/blog_people/?idx=136514868&bmode=view"
+  },
+  {
+   "idx": "129449890",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "리더스 토크_“단순 CS 아닌, 브랜드의 페이스 메이커죠” 아임웹 커스터머 디비전 리더 수진님",
+   "thumb": "https://cdn.imweb.me/thumbnail/20241129/db9db4f133b2e.png",
+   "date": "2024.11.29",
+   "url": "https://team.imweb.me/blog_people/?idx=129449890&bmode=view"
+  },
+  {
+   "idx": "126928274",
+   "board": "blog-insight",
+   "category": "인사이트",
+   "title": "브랜드와 전문가를 이어주는 아임웹만의 방식",
+   "thumb": "https://cdn.imweb.me/thumbnail/20241117/da91e313ed3e9.gif",
+   "date": "2024.11.17",
+   "url": "https://team.imweb.me/blog-insight/?idx=126928274&bmode=view"
+  },
+  {
+   "idx": "122269609",
+   "board": "blog-insight",
+   "category": "인사이트",
+   "title": "아임웹은 왜 디자인 인프라에 주목할까?",
+   "thumb": "https://cdn.imweb.me/thumbnail/20241015/c569f5a2a1fe3.png",
+   "date": "2024.10.15",
+   "url": "https://team.imweb.me/blog-insight/?idx=122269609&bmode=view"
+  },
+  {
+   "idx": "119942243",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "프로덕트 디자이너가 말하는 ‘당신이 몰랐던 아임웹’",
+   "thumb": "https://cdn.imweb.me/thumbnail/20241004/1743785684bef.png",
+   "date": "2024.10.04",
+   "url": "https://team.imweb.me/blog_people/?idx=119942243&bmode=view"
+  },
+  {
+   "idx": "117959207",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "아임웹 프로덕트 디자이너로 일한다는 것",
+   "thumb": "https://cdn.imweb.me/thumbnail/20240930/684e4ee5d366b.png",
+   "date": "2024.09.30",
+   "url": "https://team.imweb.me/blog_people/?idx=117959207&bmode=view"
+  },
+  {
+   "idx": "77284453",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "아임웹 메이커들의 대담 : B2B 서비스에 대한 오해와 진실",
+   "thumb": "https://cdn.imweb.me/thumbnail/20240821/5ae25f7135c6b.jpg",
+   "date": "2024.08.21",
+   "url": "https://team.imweb.me/blog_people/?idx=77284453&bmode=view"
+  },
+  {
+   "idx": "74123800",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "화면 너머 치열하게 고민하는 아임웹 프론트엔드 엔지니어",
+   "thumb": "https://cdn.imweb.me/thumbnail/20240819/111b43d4b625e.png",
+   "date": "2024.08.19",
+   "url": "https://team.imweb.me/blog_people/?idx=74123800&bmode=view"
+  },
+  {
+   "idx": "54414117",
+   "board": "blog-insight",
+   "category": "인사이트",
+   "title": "그래서 ‘브랜드 빌더’ 아임웹은 뭐하는 곳인데?",
+   "thumb": "https://cdn.imweb.me/thumbnail/20240801/7b681710c92aa.png",
+   "date": "2024.08.01",
+   "url": "https://team.imweb.me/blog-insight/?idx=54414117&bmode=view"
+  },
+  {
+   "idx": "53457154",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "아임웹이 레거시를 대하는 자세 (Feat. MFE)",
+   "thumb": "https://cdn.imweb.me/thumbnail/20240730/141e2b6a4395a.jpg",
+   "date": "2024.07.30",
+   "url": "https://team.imweb.me/blog_people/?idx=53457154&bmode=view"
+  },
+  {
+   "idx": "28017157",
+   "board": "blog-insight",
+   "category": "인사이트",
+   "title": "데이터 수집부터 자동화까지, 아임웹은 왜 CRM에 집중할까?",
+   "thumb": "https://cdn.imweb.me/thumbnail/20240613/5280c951314fe.png",
+   "date": "2024.06.13",
+   "url": "https://team.imweb.me/blog-insight/?idx=28017157&bmode=view"
+  },
+  {
+   "idx": "17266239",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "고객 중심의 가치를 실천하는 아임웹 만의 방식",
+   "thumb": "https://cdn.imweb.me/thumbnail/20231213/93ac850b5d0ec.jpg",
+   "date": "2023.12.13",
+   "url": "https://team.imweb.me/blog_people/?idx=17266239&bmode=view"
+  },
+  {
+   "idx": "16738090",
+   "board": "blog-culture",
+   "category": "컬쳐",
+   "title": "우리가 브랜드 빌더로 나아가는 이유",
+   "thumb": "https://cdn.imweb.me/thumbnail/20231030/b468cc80c9845.png",
+   "date": "2023.10.30",
+   "url": "https://team.imweb.me/blog-culture/?idx=16738090&bmode=view"
+  },
+  {
+   "idx": "16202951",
+   "board": "blog-culture",
+   "category": "컬쳐",
+   "title": "새로운 성장의 시작 ‘아임웹 온보딩’",
+   "thumb": "https://cdn.imweb.me/thumbnail/20230901/d9aba64340b1f.gif",
+   "date": "2023.09.01",
+   "url": "https://team.imweb.me/blog-culture/?idx=16202951&bmode=view"
+  },
+  {
+   "idx": "15806832",
+   "board": "blog-insight",
+   "category": "인사이트",
+   "title": "CRM은 성공의 열쇠",
+   "thumb": "https://cdn.imweb.me/thumbnail/20230721/4485db93d123b.png",
+   "date": "2023.07.21",
+   "url": "https://team.imweb.me/blog-insight/?idx=15806832&bmode=view"
+  },
+  {
+   "idx": "15369212",
+   "board": "blog-culture",
+   "category": "컬쳐",
+   "title": "‘아임웹의 위대한 여정’에 함께하려면",
+   "thumb": "https://cdn.imweb.me/thumbnail/20230607/882f16dc6746e.png",
+   "date": "2023.06.07",
+   "url": "https://team.imweb.me/blog-culture/?idx=15369212&bmode=view"
+  },
+  {
+   "idx": "14967526",
+   "board": "blog-insight",
+   "category": "인사이트",
+   "title": "SMB, 빅테크들의 블루오션인 이유",
+   "thumb": "https://cdn.imweb.me/thumbnail/20230424/ea3522530eeab.png",
+   "date": "2023.04.24",
+   "url": "https://team.imweb.me/blog-insight/?idx=14967526&bmode=view"
+  },
+  {
+   "idx": "14485056",
+   "board": "blog-insight",
+   "category": "인사이트",
+   "title": "요즘 브랜드, 오픈마켓보다 '이곳'에 올인 합니다",
+   "thumb": "https://cdn.imweb.me/thumbnail/20230330/108e1b30595fc.png",
+   "date": "2023.03.30",
+   "url": "https://team.imweb.me/blog-insight/?idx=14485056&bmode=view"
+  },
+  {
+   "idx": "13638967",
+   "board": "blog-insight",
+   "category": "인사이트",
+   "title": "노코드는 정말 개발자를 대체할까요?",
+   "thumb": "https://cdn.imweb.me/thumbnail/20230330/e4caae36fd371.png",
+   "date": "2023.03.30",
+   "url": "https://team.imweb.me/blog-insight/?idx=13638967&bmode=view"
+  }
+ ]
+}
