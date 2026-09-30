@@ -1,7 +1,16 @@
 {
- "updated_at": "2026.09.23 19:36",
- "count": 48,
+ "updated_at": "2026.09.30 20:45",
+ "count": 49,
  "posts": [
+  {
+   "idx": "174910398",
+   "board": "blog_people",
+   "category": "피플",
+   "title": "개발하는 PO와 기획하는 엔지니어, 2인 스쿼드가 제품을 만드는 방법",
+   "thumb": "https://cdn.imweb.me/thumbnail/20260930/12ab085d39779.png",
+   "date": "2026.09.30",
+   "url": "https://team.imweb.me/blog_people/?idx=174910398&bmode=view"
+  },
   {
    "idx": "174675268",
    "board": "blog_people",
